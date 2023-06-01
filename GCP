@@ -1,0 +1,7 @@
+git clone https://github.com/GoogleCloudPlatform/python-docs-samples
+
+cd python-docs-samples/appengine/flexible/hello_world
+
+gcloud app deploy
+
+gcloud app browse
